@@ -1,0 +1,8 @@
+linux常用命令：
+	1、从网络下载文件
+		wget url(wget http://xxxxx.com/xxx.tar.gz)
+		wget -P 指定目录 url：下载文件到指定目录
+		apt-get 
+
+	2、解压命令
+		tar -zxvf file.tar.gz
