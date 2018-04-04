@@ -1,7 +1,7 @@
 1、利用进程来查看
 	ps -aux 查看所有的命令
 		ps -aux | grep xxx	查看某个进程或者服务是否存在
-	(ps -aux | grep xxx)
+	(ps -aux | grep httpd)
 
 2、利用service命令
 	service 服务名 status（service httpd status）
